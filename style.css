@@ -29,10 +29,12 @@ h1 {
 }
 
 .container_foto h2 {
-	color: #00012b;
-	font-weight: 800;
-	font-size: 25px;
+	font-weight: 200;
+    color: rgb(80 80 80);
+    font-size: 16px;
+    font-family: system-ui;
 }
+
 
 .container_foto h4 {
 	font-weight: 300;
