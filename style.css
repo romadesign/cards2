@@ -35,9 +35,10 @@ h1 {
 
 
 .container_foto h4 {
-	font-weight: 300;
-	color: rgb(34, 34, 34);
-	font-size: 16px;
+	font-weight: 100;
+    color: rgb(99 99 99);
+    font-size: 16px;
+    font-family: system-ui;
 }
 
 .container_foto img {
